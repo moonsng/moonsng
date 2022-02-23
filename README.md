@@ -26,10 +26,7 @@
 -->
 
 
-</p>
-### Blog
 
-</p>
 </p>
 📫 How to reach me: ericajg324@naver.com
 </p>
