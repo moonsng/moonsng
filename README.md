@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=34C5FC&height=250&section=header&text=Moonseong%20Jang&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=34C5FC&height=250&section=header&text=Moonseong%20Jang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
 
