@@ -1,7 +1,8 @@
+<div align = "center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=34C5FC&height=250&section=header&text=Moonseong%20Jang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-
-<center> ### Skills </center>
+ ### Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,6 +33,7 @@
 
 📫 Mail: ericajg324@naver.com
 
+  </div>
 
 
 
