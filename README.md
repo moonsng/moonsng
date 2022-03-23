@@ -1,7 +1,9 @@
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=34C5FC&height=250&section=header&text=Moonseong%20Jang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
+ 
+------------------------
+ 
  ### Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,13 +28,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
 
-
+------------------------
 
 
 ### Contact
 
 📫 Mail: ericajg324@naver.com
 
+ 
+----------------------------------
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsng)](https://github.com/anuraghazra/github-readme-stats)
  
