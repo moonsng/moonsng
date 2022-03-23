@@ -27,10 +27,10 @@
 
 
 
-</p>
+
 ### Contact
 📫 Mail: ericajg324@naver.com
-</p>
+
 
 
 
