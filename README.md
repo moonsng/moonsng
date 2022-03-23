@@ -28,7 +28,8 @@
 
 
 </p>
-📫 How to reach me: ericajg324@naver.com
+### Contact
+📫 Mail: ericajg324@naver.com
 </p>
 
 
