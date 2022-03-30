@@ -28,7 +28,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
 
-------------------------
 
 
 ### Contact
@@ -36,18 +35,18 @@
 📫 Mail: ericajg324@naver.com
 
  
-----------------------------------
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsng)](https://github.com/anuraghazra/github-readme-stats)
  
  --------------
+ <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  ----------------------
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonsng)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+ -->
   </div>
 
 
